@@ -4,7 +4,7 @@
 *.diff
 *.orig
 interdiff*.txt
-
+.dingoMaster.txt
 # Local caches.
 .sass-cache
 

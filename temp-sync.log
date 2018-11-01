@@ -1,0 +1,365 @@
+UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 10:37:20.68 on 01 Nov 2018
+[BGN] Copying .rig-check-sync-start from /Users/iangoodrich/dev/temp to //bf180218b027//unison
+Shortcut: copied /unison/.rig-check-sync-start from local file /unison/vendor/symfony/validator/Tests/Mapping/Loader/empty-mapping.yml
+[END] Copying .rig-check-sync-start
+UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 10:37:20.68 on 01 Nov 2018
+Synchronization complete at 10:37:20  (1 item transferred, 0 skipped, 0 failed)
+UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 10:37:35.75 on 01 Nov 2018
+[BGN] Deleting .rig-check-sync-start from //bf180218b027//unison
+[END] Deleting .rig-check-sync-start
+UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 10:37:35.76 on 01 Nov 2018
+Synchronization complete at 10:37:35  (1 item transferred, 0 skipped, 0 failed)
+UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 10:41:09.32 on 01 Nov 2018
+[BGN] Copying src/config/default/automated_cron.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.bartik_account_menu.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.bartik_branding.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.bartik_breadcrumbs.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.bartik_content.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.bartik_footer.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.bartik_help.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.bartik_local_actions.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.bartik_local_tasks.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.bartik_main_menu.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.bartik_messages.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.bartik_page_title.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.bartik_powered.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.bartik_search.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.bartik_tools.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.seven_breadcrumbs.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.seven_content.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.seven_help.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.seven_local_actions.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.seven_login.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.seven_messages.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.seven_page_title.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.seven_primary_local_tasks.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block.block.seven_secondary_local_tasks.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/block_content.type.basic.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/comment.type.comment.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/contact.form.feedback.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/contact.form.personal.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/contact.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.base_field_override.node.page.promote.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.date_format.fallback.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.date_format.html_date.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.date_format.html_datetime.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.date_format.html_month.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.date_format.html_time.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.date_format.html_week.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.date_format.html_year.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.date_format.html_yearless_date.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.date_format.long.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.date_format.medium.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.date_format.short.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_form_display.block_content.basic.default.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_form_display.comment.comment.default.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_form_display.node.article.default.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_form_display.node.page.default.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_form_display.user.user.default.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_form_mode.user.register.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_display.block_content.basic.default.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_display.comment.comment.default.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_display.node.article.default.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_display.node.article.rss.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_display.node.article.teaser.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_display.node.page.default.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_display.node.page.teaser.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_display.user.user.compact.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_display.user.user.default.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_mode.block_content.full.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_mode.comment.full.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_mode.node.full.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_mode.node.rss.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_mode.node.search_index.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_mode.node.search_result.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_mode.node.teaser.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_mode.taxonomy_term.full.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_mode.user.compact.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.entity_view_mode.user.full.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.extension.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/core.menu.static_menu_link_overrides.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/dblog.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/editor.editor.basic_html.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/editor.editor.full_html.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.field.block_content.basic.body.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.field.comment.comment.comment_body.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.field.node.article.body.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.field.node.article.comment.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.field.node.article.field_image.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.field.node.article.field_tags.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.field.node.page.body.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.field.user.user.user_picture.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.storage.block_content.body.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.storage.comment.comment_body.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.storage.node.body.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.storage.node.comment.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.storage.node.field_image.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.storage.node.field_tags.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field.storage.user.user_picture.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/field_ui.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/file.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/filter.format.basic_html.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/filter.format.full_html.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/filter.format.plain_text.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/filter.format.restricted_html.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/filter.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/image.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/image.style.large.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/image.style.medium.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/image.style.thumbnail.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/menu_ui.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/node.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/node.type.article.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/node.type.page.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/rdf.mapping.comment.comment.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/rdf.mapping.node.article.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/rdf.mapping.node.page.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/rdf.mapping.taxonomy_term.tags.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/rdf.mapping.user.user.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/search.page.node_search.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/search.page.user_search.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/search.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/seven.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/shortcut.set.default.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.comment_delete_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.comment_publish_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.comment_save_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.comment_unpublish_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.node_delete_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.node_make_sticky_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.node_make_unsticky_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.node_promote_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.node_publish_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.node_save_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.node_unpromote_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.node_unpublish_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.user_add_role_action.administrator.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.user_block_user_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.user_cancel_user_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.user_remove_role_action.administrator.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.action.user_unblock_user_action.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.authorize.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.cron.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.date.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.diff.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.file.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.image.gd.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.image.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.logging.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.mail.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.maintenance.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.menu.account.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.menu.admin.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.menu.footer.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.menu.main.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.menu.tools.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.performance.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.rss.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.site.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.theme.global.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/system.theme.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/taxonomy.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/taxonomy.vocabulary.tags.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/text.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/tour.tour.views-ui.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/update.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/user.flood.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/user.mail.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/user.role.administrator.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/user.role.anonymous.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/user.role.authenticated.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/user.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.settings.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.view.archive.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.view.block_content.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.view.comment.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.view.comments_recent.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.view.content.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.view.content_recent.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.view.files.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.view.frontpage.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.view.glossary.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.view.taxonomy_term.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.view.user_admin_people.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.view.watchdog.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.view.who_s_new.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+[BGN] Copying src/config/default/views.view.who_s_online.yml from //bf180218b027//unison to /Users/iangoodrich/dev/temp
+Shortcut: copied /Users/iangoodrich/dev/temp/src/config/default/seven.settings.yml from local file /Users/iangoodrich/dev/temp/build/html/profiles/contrib/lightning/tests/config/seven.settings.yml
+[END] Copying src/config/default/seven.settings.yml
+[END] Copying src/config/default/automated_cron.settings.yml
+[END] Copying src/config/default/block.block.bartik_account_menu.yml
+[END] Copying src/config/default/block.block.bartik_branding.yml
+[END] Copying src/config/default/block.block.bartik_breadcrumbs.yml
+[END] Copying src/config/default/block.block.bartik_content.yml
+[END] Copying src/config/default/block.block.bartik_footer.yml
+[END] Copying src/config/default/block.block.bartik_help.yml
+[END] Copying src/config/default/block.block.bartik_local_actions.yml
+[END] Copying src/config/default/block.block.bartik_local_tasks.yml
+[END] Copying src/config/default/block.block.bartik_main_menu.yml
+[END] Copying src/config/default/block.block.bartik_messages.yml
+[END] Copying src/config/default/block.block.bartik_page_title.yml
+[END] Copying src/config/default/block.block.bartik_powered.yml
+[END] Copying src/config/default/block.block.bartik_search.yml
+[END] Copying src/config/default/block.block.bartik_tools.yml
+[END] Copying src/config/default/block.block.seven_breadcrumbs.yml
+[END] Copying src/config/default/block.block.seven_content.yml
+[END] Copying src/config/default/block.block.seven_help.yml
+[END] Copying src/config/default/block.block.seven_local_actions.yml
+[END] Copying src/config/default/block.block.seven_login.yml
+[END] Copying src/config/default/block.block.seven_messages.yml
+[END] Copying src/config/default/block.block.seven_page_title.yml
+[END] Copying src/config/default/block.block.seven_primary_local_tasks.yml
+[END] Copying src/config/default/block.block.seven_secondary_local_tasks.yml
+[END] Copying src/config/default/block_content.type.basic.yml
+[END] Copying src/config/default/comment.type.comment.yml
+[END] Copying src/config/default/contact.form.feedback.yml
+[END] Copying src/config/default/contact.form.personal.yml
+[END] Copying src/config/default/contact.settings.yml
+[END] Copying src/config/default/core.base_field_override.node.page.promote.yml
+[END] Copying src/config/default/core.date_format.fallback.yml
+[END] Copying src/config/default/core.date_format.html_date.yml
+[END] Copying src/config/default/core.date_format.html_datetime.yml
+[END] Copying src/config/default/core.date_format.html_month.yml
+[END] Copying src/config/default/core.date_format.html_time.yml
+[END] Copying src/config/default/core.date_format.html_week.yml
+[END] Copying src/config/default/core.date_format.html_year.yml
+[END] Copying src/config/default/core.date_format.html_yearless_date.yml
+[END] Copying src/config/default/core.date_format.long.yml
+[END] Copying src/config/default/core.date_format.medium.yml
+[END] Copying src/config/default/core.date_format.short.yml
+[END] Copying src/config/default/core.entity_form_display.block_content.basic.default.yml
+[END] Copying src/config/default/core.entity_form_display.comment.comment.default.yml
+[END] Copying src/config/default/core.entity_form_display.node.article.default.yml
+[END] Copying src/config/default/core.entity_form_display.node.page.default.yml
+[END] Copying src/config/default/core.entity_form_display.user.user.default.yml
+[END] Copying src/config/default/core.entity_form_mode.user.register.yml
+[END] Copying src/config/default/core.entity_view_display.block_content.basic.default.yml
+[END] Copying src/config/default/core.entity_view_display.comment.comment.default.yml
+[END] Copying src/config/default/core.entity_view_display.node.article.default.yml
+[END] Copying src/config/default/core.entity_view_display.node.article.rss.yml
+[END] Copying src/config/default/core.entity_view_display.node.article.teaser.yml
+[END] Copying src/config/default/core.entity_view_display.node.page.default.yml
+[END] Copying src/config/default/core.entity_view_display.node.page.teaser.yml
+[END] Copying src/config/default/core.entity_view_display.user.user.compact.yml
+[END] Copying src/config/default/core.entity_view_display.user.user.default.yml
+[END] Copying src/config/default/core.entity_view_mode.block_content.full.yml
+[END] Copying src/config/default/core.entity_view_mode.comment.full.yml
+[END] Copying src/config/default/core.entity_view_mode.node.full.yml
+[END] Copying src/config/default/core.entity_view_mode.node.rss.yml
+[END] Copying src/config/default/core.entity_view_mode.node.search_index.yml
+[END] Copying src/config/default/core.entity_view_mode.node.search_result.yml
+[END] Copying src/config/default/core.entity_view_mode.node.teaser.yml
+[END] Copying src/config/default/core.entity_view_mode.taxonomy_term.full.yml
+[END] Copying src/config/default/core.entity_view_mode.user.compact.yml
+[END] Copying src/config/default/core.entity_view_mode.user.full.yml
+[END] Copying src/config/default/core.extension.yml
+[END] Copying src/config/default/core.menu.static_menu_link_overrides.yml
+[END] Copying src/config/default/dblog.settings.yml
+[END] Copying src/config/default/editor.editor.basic_html.yml
+[END] Copying src/config/default/editor.editor.full_html.yml
+[END] Copying src/config/default/field.field.block_content.basic.body.yml
+[END] Copying src/config/default/field.field.comment.comment.comment_body.yml
+[END] Copying src/config/default/field.field.node.article.body.yml
+[END] Copying src/config/default/field.field.node.article.comment.yml
+[END] Copying src/config/default/field.field.node.article.field_image.yml
+[END] Copying src/config/default/field.field.node.article.field_tags.yml
+[END] Copying src/config/default/field.field.node.page.body.yml
+[END] Copying src/config/default/field.field.user.user.user_picture.yml
+[END] Copying src/config/default/field.settings.yml
+[END] Copying src/config/default/field.storage.block_content.body.yml
+[END] Copying src/config/default/field.storage.comment.comment_body.yml
+[END] Copying src/config/default/field.storage.node.body.yml
+[END] Copying src/config/default/field.storage.node.comment.yml
+[END] Copying src/config/default/field.storage.node.field_image.yml
+[END] Copying src/config/default/field.storage.node.field_tags.yml
+[END] Copying src/config/default/field.storage.user.user_picture.yml
+[END] Copying src/config/default/field_ui.settings.yml
+[END] Copying src/config/default/file.settings.yml
+[END] Copying src/config/default/filter.format.basic_html.yml
+[END] Copying src/config/default/filter.format.full_html.yml
+[END] Copying src/config/default/filter.format.plain_text.yml
+[END] Copying src/config/default/filter.format.restricted_html.yml
+[END] Copying src/config/default/filter.settings.yml
+[END] Copying src/config/default/image.settings.yml
+[END] Copying src/config/default/image.style.large.yml
+[END] Copying src/config/default/image.style.medium.yml
+[END] Copying src/config/default/image.style.thumbnail.yml
+[END] Copying src/config/default/menu_ui.settings.yml
+[END] Copying src/config/default/node.settings.yml
+[END] Copying src/config/default/node.type.article.yml
+[END] Copying src/config/default/node.type.page.yml
+[END] Copying src/config/default/rdf.mapping.comment.comment.yml
+[END] Copying src/config/default/rdf.mapping.node.article.yml
+[END] Copying src/config/default/rdf.mapping.node.page.yml
+[END] Copying src/config/default/rdf.mapping.taxonomy_term.tags.yml
+[END] Copying src/config/default/rdf.mapping.user.user.yml
+[END] Copying src/config/default/search.page.node_search.yml
+[END] Copying src/config/default/search.page.user_search.yml
+[END] Copying src/config/default/search.settings.yml
+[END] Copying src/config/default/shortcut.set.default.yml
+[END] Copying src/config/default/system.action.comment_delete_action.yml
+[END] Copying src/config/default/system.action.comment_publish_action.yml
+[END] Copying src/config/default/system.action.comment_save_action.yml
+[END] Copying src/config/default/system.action.comment_unpublish_action.yml
+[END] Copying src/config/default/system.action.node_delete_action.yml
+[END] Copying src/config/default/system.action.node_make_sticky_action.yml
+[END] Copying src/config/default/system.action.node_make_unsticky_action.yml
+[END] Copying src/config/default/system.action.node_promote_action.yml
+[END] Copying src/config/default/system.action.node_publish_action.yml
+[END] Copying src/config/default/system.action.node_save_action.yml
+[END] Copying src/config/default/system.action.node_unpromote_action.yml
+[END] Copying src/config/default/system.action.node_unpublish_action.yml
+[END] Copying src/config/default/system.action.user_add_role_action.administrator.yml
+[END] Copying src/config/default/system.action.user_block_user_action.yml
+[END] Copying src/config/default/system.action.user_cancel_user_action.yml
+[END] Copying src/config/default/system.action.user_remove_role_action.administrator.yml
+[END] Copying src/config/default/system.action.user_unblock_user_action.yml
+[END] Copying src/config/default/system.authorize.yml
+[END] Copying src/config/default/system.cron.yml
+[END] Copying src/config/default/system.date.yml
+[END] Copying src/config/default/system.diff.yml
+[END] Copying src/config/default/system.file.yml
+[END] Copying src/config/default/system.image.gd.yml
+[END] Copying src/config/default/system.image.yml
+[END] Copying src/config/default/system.logging.yml
+[END] Copying src/config/default/system.mail.yml
+[END] Copying src/config/default/system.maintenance.yml
+[END] Copying src/config/default/system.menu.account.yml
+[END] Copying src/config/default/system.menu.admin.yml
+[END] Copying src/config/default/system.menu.footer.yml
+[END] Copying src/config/default/system.menu.main.yml
+[END] Copying src/config/default/system.menu.tools.yml
+[END] Copying src/config/default/system.performance.yml
+[END] Copying src/config/default/system.rss.yml
+[END] Copying src/config/default/system.site.yml
+[END] Copying src/config/default/system.theme.global.yml
+[END] Copying src/config/default/system.theme.yml
+[END] Copying src/config/default/taxonomy.settings.yml
+[END] Copying src/config/default/taxonomy.vocabulary.tags.yml
+[END] Copying src/config/default/text.settings.yml
+[END] Copying src/config/default/tour.tour.views-ui.yml
+[END] Copying src/config/default/update.settings.yml
+[END] Copying src/config/default/user.flood.yml
+[END] Copying src/config/default/user.mail.yml
+[END] Copying src/config/default/user.role.administrator.yml
+[END] Copying src/config/default/user.role.anonymous.yml
+[END] Copying src/config/default/user.role.authenticated.yml
+[END] Copying src/config/default/user.settings.yml
+[END] Copying src/config/default/views.settings.yml
+[END] Copying src/config/default/views.view.archive.yml
+[END] Copying src/config/default/views.view.block_content.yml
+[END] Copying src/config/default/views.view.comment.yml
+[END] Copying src/config/default/views.view.comments_recent.yml
+[END] Copying src/config/default/views.view.content.yml
+[END] Copying src/config/default/views.view.content_recent.yml
+[END] Copying src/config/default/views.view.files.yml
+[END] Copying src/config/default/views.view.frontpage.yml
+[END] Copying src/config/default/views.view.glossary.yml
+[END] Copying src/config/default/views.view.taxonomy_term.yml
+[END] Copying src/config/default/views.view.user_admin_people.yml
+[END] Copying src/config/default/views.view.watchdog.yml
+[END] Copying src/config/default/views.view.who_s_new.yml
+[END] Copying src/config/default/views.view.who_s_online.yml
+UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 10:41:09.42 on 01 Nov 2018
+Synchronization complete at 10:41:09  (175 items transferred, 0 skipped, 0 failed)
